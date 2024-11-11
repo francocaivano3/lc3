@@ -1,0 +1,22 @@
+.container {
+    width: 100vw;
+    margin-left: 8.2vw;
+}
+
+.login-container {
+    width: 50%;
+}
+
+.form-title {
+    font-weight: 700;
+}
+
+#form-button {
+    background-color: rgb(16, 16, 16);
+    color: white;
+}
+
+#form-button:hover {
+    background-color: rgb(35, 34, 34);
+    transition: 0.4s;
+}

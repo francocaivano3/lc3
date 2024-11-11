@@ -1,0 +1,13 @@
+.events-container {
+    padding: 20px;
+    width: 98vw;
+    height: 100%;
+}
+
+.event-card {
+    transition: transform 0.2s;
+}
+
+.event-card:hover {
+    transform: scale(1.05); /* Efecto de elevación al pasar el mouse */
+}
